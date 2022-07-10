@@ -1,7 +1,5 @@
 # cppcheck-upload
 
-Change to trigger PR.
-
 ### GIT
 
 Suppose you want to use a repository-specific git configuration. In that case,
