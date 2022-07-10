@@ -6,7 +6,7 @@
 <string>cppcheck version 2.7</string>
  <key>files</key>
  <array>
-  <string>test/test.cpp</string>
+  <string>test/source.cpp</string>
  </array>
  <key>diagnostics</key>
  <array>
