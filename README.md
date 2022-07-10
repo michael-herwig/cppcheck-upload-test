@@ -1,6 +1,6 @@
 # cppcheck-upload
 
-Trigger Count: 1
+Trigger Count: 2
 
 ### GIT
 
