@@ -1,5 +1,7 @@
 # cppcheck-upload
 
+Trigger Count: 7
+
 ### GIT
 
 Suppose you want to use a repository-specific git configuration. In that case,

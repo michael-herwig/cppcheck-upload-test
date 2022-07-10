@@ -3,7 +3,6 @@
 
 name: Trigger Cppcheck Upload
 on:
-  push:
   pull_request:
 
 jobs:
