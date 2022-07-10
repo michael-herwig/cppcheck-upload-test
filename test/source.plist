@@ -6,7 +6,7 @@
  <string>cppcheck version 2.7</string>
  <key>files</key>
  <array>
-  <string>src/test.cpp</string>
+  <string>README.md</string>
  </array>
  <key>diagnostics</key>
  <array>
@@ -17,8 +17,8 @@
      <key>kind</key><string>event</string>
      <key>location</key>
      <dict>
-      <key>line</key><integer>22</integer>
-      <key>col</key><integer>7</integer>
+      <key>line</key><integer>3</integer>
+      <key>col</key><integer>16</integer>
       <key>file</key><integer>0</integer>
      </dict>
      <key>ranges</key>
